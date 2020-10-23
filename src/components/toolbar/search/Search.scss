@@ -1,0 +1,17 @@
+@import '../../../mixins/toolbar';
+
+.search-form {
+    padding: 1rem;
+    display: flex;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+.search-form > input, .search-form button {
+
+    @include toolbar-sizing;
+
+    & > img {
+        height: 100%;
+    }
+}
