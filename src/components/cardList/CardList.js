@@ -17,7 +17,6 @@ class CardList extends React.Component {
             cardList: [],
         }
 
-        
         this.initialized = false;
         this.name = undefined;
         this.keywords = "";
@@ -91,8 +90,8 @@ class CardList extends React.Component {
             this.name = input;
         }
 
-        // Only query the api if there are results to grab
-        // Ex: don't query if we've reached the end of the result set
+        // Don't query if we've reached the end of the result set
+        // Note: Input will be undefined if fetchCards is called from the scroll listener
         if (typeof(input) !== "undefined" || this.nextPage !== "") {
 
             // Use default URI if making a new query, otherwise use the saved nextPage URI

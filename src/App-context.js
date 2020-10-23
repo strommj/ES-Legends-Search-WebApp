@@ -1,7 +1,6 @@
 import React from 'react';
 
 export const SearchContext = React.createContext({
-    cardList: [],
     keywords: "",
     updateCardList: () => {}
 });
