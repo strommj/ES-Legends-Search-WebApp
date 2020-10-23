@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ES-Legends-Search-WebApp/static/css/main.dba898ab.chunk.css",
+    "main.js": "/ES-Legends-Search-WebApp/static/js/main.495045a9.chunk.js",
+    "main.js.map": "/ES-Legends-Search-WebApp/static/js/main.495045a9.chunk.js.map",
+    "runtime-main.js": "/ES-Legends-Search-WebApp/static/js/runtime-main.33313832.js",
+    "runtime-main.js.map": "/ES-Legends-Search-WebApp/static/js/runtime-main.33313832.js.map",
+    "static/js/2.6adff751.chunk.js": "/ES-Legends-Search-WebApp/static/js/2.6adff751.chunk.js",
+    "static/js/2.6adff751.chunk.js.map": "/ES-Legends-Search-WebApp/static/js/2.6adff751.chunk.js.map",
+    "index.html": "/ES-Legends-Search-WebApp/index.html",
+    "precache-manifest.07a44244487d9ea3d5fd51638b5a8ca8.js": "/ES-Legends-Search-WebApp/precache-manifest.07a44244487d9ea3d5fd51638b5a8ca8.js",
+    "service-worker.js": "/ES-Legends-Search-WebApp/service-worker.js",
+    "static/css/main.dba898ab.chunk.css.map": "/ES-Legends-Search-WebApp/static/css/main.dba898ab.chunk.css.map",
+    "static/js/2.6adff751.chunk.js.LICENSE.txt": "/ES-Legends-Search-WebApp/static/js/2.6adff751.chunk.js.LICENSE.txt",
+    "static/media/search-24px.svg": "/ES-Legends-Search-WebApp/static/media/search-24px.db5d8122.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33313832.js",
+    "static/js/2.6adff751.chunk.js",
+    "static/css/main.dba898ab.chunk.css",
+    "static/js/main.495045a9.chunk.js"
+  ]
+}
