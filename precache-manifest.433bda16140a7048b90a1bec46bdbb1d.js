@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4451cc5f4cd6314670eaa1d0b180ddee",
+    "revision": "a5926ce07242b3dbf2922e892b16afde",
     "url": "/ES-Legends-Search-WebApp/index.html"
   },
   {
-    "revision": "1ff9cd929b45b3dc2183",
+    "revision": "6f325d804c5af02058ee",
     "url": "/ES-Legends-Search-WebApp/static/css/main.dba898ab.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ES-Legends-Search-WebApp/static/js/2.6adff751.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ff9cd929b45b3dc2183",
-    "url": "/ES-Legends-Search-WebApp/static/js/main.e0162923.chunk.js"
+    "revision": "6f325d804c5af02058ee",
+    "url": "/ES-Legends-Search-WebApp/static/js/main.f7cb11d4.chunk.js"
   },
   {
     "revision": "d099445a067fb11744b7",
