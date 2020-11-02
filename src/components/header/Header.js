@@ -5,7 +5,7 @@ import './Header.scss';
 function Header() {
     return(
         <div className="header">
-            <h1>Elder Scrolls Ledgends</h1>
+            <h1>Elder Scrolls Legends</h1>
             <h2>Card Database</h2>
         </div>
     );

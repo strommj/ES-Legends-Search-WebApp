@@ -27,7 +27,7 @@ Run `npm run build` if you wish to use a minified production build.
 
 ## About the project
 
-This web app pulls card information from the [Elder Scrolls Ledgends API](https://elderscrollslegends.io/). The cards are displayed in a grid format and provide some card information such as:
+This web app pulls card information from the [Elder Scrolls Legends API](https://elderscrollslegends.io/). The cards are displayed in a grid format and provide some card information such as:
 
 - Card Name
 - Set Name
